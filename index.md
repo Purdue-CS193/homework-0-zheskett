@@ -1,3 +1,10 @@
+# Zachary Heskett's First CS193 Homework
+## My favorite things about CS193
+- I get to learn how to use cool tools
+- I get to learn how to do my homework
+- It is taught by fellow students, and that is cool
+- The class showed me how to git github pro for free as a student
+
 # Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
